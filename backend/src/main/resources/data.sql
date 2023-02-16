@@ -14,6 +14,8 @@ INSERT INTO Utilisateur(nom, prenom, username, password,role) VALUES
 INSERT INTO Annee(intitule,UTILISATEUR_ID) VALUES 
     ('2022',1),
     ('2022',1);
+    ('2022',1);
+
 
 
 INSERT INTO Ue(intitule, codeue, creditects, numsemestre, prerequis,ANNEE_ID) VALUES 
